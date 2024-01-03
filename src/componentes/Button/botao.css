@@ -1,0 +1,19 @@
+.container-botao{
+    width: 100%;
+    margin: 10px;
+}
+
+.botao{
+    border: none;
+    padding: 10px 30px;
+    border-radius: 0.5rem;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgba(72, 145, 214 );
+    background: linear-gradient(50deg, rgb(30, 112, 189) 10%, rgb(124, 212, 235) 100%);
+    color: #fff;
+}
+
+.botao:hover{
+    cursor: pointer;
+}
